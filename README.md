@@ -1,2 +1,3 @@
-This is my first git repository
-Author: Bikram Bakshi
+This is my first git repository.
+<br>
+Author: Bikram Bakshi.
